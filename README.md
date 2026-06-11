@@ -5,7 +5,7 @@
 
 *I turn raw data into decisions — SQL databases, Python EDA, and BI dashboards end-to-end.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranvijay-singh-58182a325/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranvijay-singh-tomar)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranvijaytomar7@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RANVIJAY-TOMAR)
 
@@ -117,7 +117,7 @@ I'm actively looking for **Data Analyst** roles. If you're hiring or want to col
 
 📧 ranvijaytomar7@gmail.com
 &nbsp;|&nbsp;
-💼 [LinkedIn](https://www.linkedin.com/in/ranvijay-singh-58182a325/)
+💼 [LinkedIn](https://www.linkedin.com/in/ranvijay-singh-tomar)
 
 ---
 
